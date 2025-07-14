@@ -39,4 +39,4 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gonzalo-copes7a9277205/)
 - 🌍 [Portfolio Web](https://portafolio-gonzalo-copes.netlify.app/)
-- 🖥️ [MaGoz IT Solutions](https://magozitsolutions.netlify.app/)
+- 🖥️ [MaGoz IT Solutions](https://magozitsolutions.netlify.app/) Mini Empresa Emprendimiento
